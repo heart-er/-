@@ -1,5 +1,5 @@
 # -
-Vue记事本(author:caimengyong)
+Vue记事本
 
 npm install(依赖安装)
 
